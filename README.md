@@ -6,4 +6,5 @@ blah blah blah
 blah blah blah
 blah blah blah
 
-The end.
+For more information on Git, see the
+[official Git documentation](https://git-scm.com/).
